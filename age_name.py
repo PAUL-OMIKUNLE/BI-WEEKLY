@@ -2,7 +2,7 @@
 """
 Author : Me <paul.omikunle@gmail.com>
 Date   : today
-Purpose: To greete a user and Provide  detailed age Info
+Purpose: To greet a user and Provide  detailed age Info
 Note: The shebang line (usr/bin/env) tells the Operating system which
 program to use to execute this program (python3).
 """
